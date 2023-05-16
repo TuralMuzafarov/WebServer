@@ -1,0 +1,3 @@
+﻿  ListenerClient.cpp
+C:\Users\Tural\Desktop\AzAITech\ServerDemo\ServerDemo\ListenerClient.cpp(86,86): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  ServerDemo.vcxproj -> C:\Users\Tural\Desktop\AzAITech\ServerDemo\x64\Debug\ServerDemo.exe
